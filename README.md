@@ -1,4 +1,4 @@
-# Task 2 - Stock Portfolio Tracker
+# Stock Portfolio Tracker
 
 A console application that calculates the value of a stock portfolio using manually defined stock prices.
 
